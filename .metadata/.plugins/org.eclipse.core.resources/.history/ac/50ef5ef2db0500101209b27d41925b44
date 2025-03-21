@@ -1,0 +1,16 @@
+//Criar duas variáves inicializa com um valor e imprime a média
+
+package exemplos;
+
+public class Calculo {
+
+	public static void main(String[] args) {
+		
+		int valor1 = 5, valor2 = 10;
+		float media = (valor1+valor2)/2;
+		
+		System.out.println("A média de ambos números é " + media);
+		
+	}
+
+}
